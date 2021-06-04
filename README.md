@@ -35,6 +35,9 @@ Authors: Jonathan Lam, Timothy D. Arthur, Jennifer P. Nguyen
 <b> 3.PRS_Validation.ipynb </b>
 - Validated PRS model using AUC
 
+prep_vcf.sh
+- Reformatted VCF for downstream processing
+
 <b> plink/ </b>
 - Contains plink files needed for PRS
 - Several files are not uploaded due to large size
